@@ -13,7 +13,6 @@
 ## 🎯 Goals
 - Build strong fundamentals in software development
 - Create clean, useful projects
-- Land a great tech role in the future
 
 ## 💬 Let's Connect!
 I'm always open to feedback and collaboration.
