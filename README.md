@@ -1,17 +1,14 @@
 # 👋 Hi there, I'm Jayesh
 
-🚀 Aspiring Software Developer from India  
 🎯 Focused on learning, building, and improving every day
 
 ## 🛠️ Skills & Tools
-- Python (Beginner)
+- Python
+- C++
+- HTML 
 - Git & GitHub
 - Visual Studio Code
 - Terminal / CLI basics
-
-## 📘 Projects
-Check out my beginner Python programs here:  
-👉 [Python Clean Final Repo](https://github.com/itsjayeshk/python-clean-final)
 
 ## 🎯 Goals
 - Build strong fundamentals in software development
