@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Jayesh K</h1>
 <h3 align="center">Documenting my developer journey!</h3>
 
+<h2 align="centre" > Focused on learning, building, and improving every day </h2>
+
 <img align = "right" alt="coding" width="400" src="https://github.com/itsjayeshk/itsjayeshk/blob/main/coding.gif">
 
 
@@ -29,39 +31,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsjayeshk&" alt="itsjayeshk" /></p>
 
-# 👋 Hi there, I'm Jayesh
-
-🎯 Focused on learning, building, and improving every day
-
-## 🛠 Skills & Tools
-- Python
-- C++
-- HTML 
-- Git & GitHub
-- Visual Studio Code
-- Terminal / CLI basics
 
 ## 🎯 Goals
 - Build strong fundamentals in software development
 - Create clean, useful projects
 
-## 💬 Let's Connect!
-I'm always open to feedback and collaboration.
-
 ---
 
-
-<!--
-*itsjayeshk/itsjayeshk* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ “The best way to predict the future is to create it.”
