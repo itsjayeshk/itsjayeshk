@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Jayesh Khandelwal
 
-### `Computer Science Student` · `Software Developer` · `AI/ML Explorer` · `Problem Solver`
+### `Computer Science Student` · `Software Developer` · `AI/ML` · `Problem Solver` · `Agentic AI` · `Generative AI`
 
 <img src="https://komarev.com/ghpvc/?username=itsjayeshk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
